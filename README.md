@@ -41,6 +41,7 @@ starter theme/
 ## Configuration
 
 Edit `theme.json` to customize:
+
 - Color palette
 - Typography settings
 - Spacing and layout
@@ -60,5 +61,3 @@ Edit `theme.json` to customize:
 - Add custom functionality in `functions.php`
 
 ## License
-
-[Specify your license here]
